@@ -56,7 +56,14 @@ cd AppTune
 open AppTune.xcodeproj
 ```
 Then build and run in Xcode (`⌘R`).
- 
+
+### Option 3 — Homebrew
+```bash
+brew tap HitarthTrivedi/apptune
+brew install --cask apptune
+```
+
+---
 ---
  
 ## Setup
